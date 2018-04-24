@@ -17,6 +17,10 @@ key: c5f30ed116
 
 
 
+`@instructions`
+ok here I'm
+
+`@hint`
 
 
 
@@ -41,10 +45,6 @@ key: b2b6771e1a
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 `@pre_exercise_code`

@@ -20,13 +20,79 @@ key: c5f30ed116
 `@instructions`
 ok here I'm
 
-`@hint`
 
 
 
 
-
-
+`@sct`
+```{python}
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa# sa
+# sa# sa# sa# # sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa# sa
+# sa# sa# sa# # sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa#
+# sa# sa# sa# # sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa#
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa#
+# sa# sa# sa# # sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa# sa
+# sa# sa# sa#
+```
 
 
 
@@ -89,5 +155,216 @@ hint
 - no
 - no
 - yes!
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+
+xp: 100
+
+key: 96ca222bd3
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise
+
+xp: 50
+
+key: 74dc6062f8
+```
+
+
+
+`@instructions`
+d;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklas
+
+`@hint`
+d;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklas
+
+`@pre_exercise_code`
+```{undefined}
+import math from pi
+```
+`@sample_code`
+```{undefined}
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa#
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa# sa
+# sa# sa# sa#
+```
+`@solution`
+```{undefined}
+# here is the solition
+```
+
+
+
+
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise
+
+xp: 50
+
+key: 87f98074aa
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+`@sct`
+```{undefined}
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa# sa
+# sa# sa# sa# # sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa# sa
+# sa# sa# sa# # sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa# sa
+# sa# sa# sa# # sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa#
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa
+# sa# sa# sa# # sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa#
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# sa
+# sa# sa# sa# 
+# sa# sa# sa# sa
+# sa# sa# sa#
+```
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: 50
+
+key: cba5fc79cf
+```
+
+`@projector_key`
+4b4fe1e445f9b3a98c03509bc8e0e781
+
+---
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+
+xp: 100
+
+key: 7a8a24817e
+```
+
+
+
+
+
+
+
+
+
+
 
 

@@ -1,8 +1,7 @@
 ---
-title: Test
-description: >-
-  Test
-
+  title: "Test"
+  description: "Test"
+  v2: true
 
 ---
 ## Sample exercise
@@ -13,6 +12,9 @@ lang: python
 xp: 100
 skills: 2
 key: c5f30ed116
+
+
+
 ```
 
 
@@ -98,6 +100,7 @@ ok here I'm
 
 
 
+
 ---
 ## Insert exercise title here
 
@@ -107,16 +110,24 @@ type: NormalExercise
 xp: 100
 
 key: b2b6771e1a
+
+
+
 ```
 
 
 
+`@instructions`
+
+
+`@hint`
 
 
 `@pre_exercise_code`
 ```{python}
 import geopandas
 ```
+
 
 
 
@@ -134,6 +145,9 @@ type: PureMultipleChoiceExercise
 xp: 50
 
 key: 79d151c4cb
+
+
+
 ```
 
 this is assignment text
@@ -159,6 +173,7 @@ hint
 
 
 
+
 ---
 ## Insert exercise title here
 
@@ -168,7 +183,11 @@ type: TabExercise
 xp: 100
 
 key: 96ca222bd3
+
+
+
 ```
+
 
 
 
@@ -192,6 +211,9 @@ type: NormalExercise
 xp: 50
 
 key: 74dc6062f8
+
+
+
 ```
 
 
@@ -203,11 +225,11 @@ d;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdkla
 d;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklas
 
 `@pre_exercise_code`
-```{undefined}
+```{python}
 import math from pi
 ```
 `@sample_code`
-```{undefined}
+```{python}
 # sa# sa# sa# sa
 # sa# sa# sa# sa
 # sa# sa
@@ -224,9 +246,10 @@ import math from pi
 # sa# sa# sa#
 ```
 `@solution`
-```{undefined}
+```{python}
 # here is the solition
 ```
+
 
 
 
@@ -244,6 +267,9 @@ type: NormalExercise
 xp: 50
 
 key: 87f98074aa
+
+
+
 ```
 
 
@@ -258,7 +284,7 @@ key: 87f98074aa
 
 
 `@sct`
-```{undefined}
+```{python}
 # sa# sa# sa# sa
 # sa# sa# sa# sa
 # sa# sa# sa# sa
@@ -332,6 +358,7 @@ key: 87f98074aa
 
 
 
+
 ---
 ## Insert exercise title here
 
@@ -341,6 +368,9 @@ type: VideoExercise
 xp: 50
 
 key: cba5fc79cf
+
+
+
 ```
 
 `@projector_key`
@@ -355,7 +385,11 @@ type: TabExercise
 xp: 100
 
 key: 7a8a24817e
+
+
+
 ```
+
 
 
 

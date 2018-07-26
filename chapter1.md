@@ -1,32 +1,51 @@
 ---
   title: "Test"
   description: "Test"
-  v2: true
-
 ---
+
 ## Sample exercise
 
 ```yaml
-type: NormalExercise
+type: NormalExercise 
 lang: python
-xp: 100
+xp: 100 
 skills: 2
-key: c5f30ed116
-
-
-
+key: c5f30ed116   
 ```
 
+
+testdsa
 
 
 `@instructions`
 ok here I'm
 
+`@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
 
 
 `@sct`
+
 ```{python}
 # sa# sa# sa# sa
 # sa# sa# sa# sa
@@ -96,69 +115,42 @@ ok here I'm
 # sa# sa# sa#
 ```
 
-
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-
-xp: 100
-
-key: b2b6771e1a
-
-
-
+type: NormalExercise 
+xp: 100 
+key: b2b6771e1a   
 ```
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 `@pre_exercise_code`
+
 ```{python}
 import geopandas
 ```
 
-
-
-
-
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise
-
-xp: 50
-
-key: 79d151c4cb
-
-
-
+type: PureMultipleChoiceExercise 
+xp: 50 
+key: 79d151c4cb   
 ```
+
 
 this is assignment text
 
 
 `@hint`
 hint
-
-
-
-
 
 `@possible_answers`
 - 1
@@ -170,35 +162,18 @@ hint
 - no
 - yes!
 
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
-type: TabExercise
-
-xp: 100
-
-key: 96ca222bd3
-
-
-
+type: TabExercise 
+xp: 100 
+key: 96ca222bd3   
 ```
 
 
-
-
-
-
-
-
-
-
-
-
+tab
 
 
 ***
@@ -206,15 +181,12 @@ key: 96ca222bd3
 
 
 ```yaml
-type: NormalExercise
-
-xp: 50
-
-key: 74dc6062f8
-
-
-
+type: NormalExercise 
+xp: 50 
+key: 74dc6062f8   
 ```
+
+
 
 
 
@@ -225,10 +197,13 @@ d;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdkla
 d;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklasd;asdklas
 
 `@pre_exercise_code`
+
 ```{python}
 import math from pi
 ```
+
 `@sample_code`
+
 ```{python}
 # sa# sa# sa# sa
 # sa# sa# sa# sa
@@ -245,16 +220,12 @@ import math from pi
 # sa# sa# sa# sa
 # sa# sa# sa#
 ```
+
 `@solution`
+
 ```{python}
 # here is the solition
 ```
-
-
-
-
-
-
 
 
 ***
@@ -262,15 +233,12 @@ import math from pi
 
 
 ```yaml
-type: NormalExercise
-
-xp: 50
-
-key: 87f98074aa
-
-
-
+type: NormalExercise 
+xp: 50 
+key: 87f98074aa   
 ```
+
+
 
 
 
@@ -280,10 +248,8 @@ key: 87f98074aa
 `@hint`
 
 
-
-
-
 `@sct`
+
 ```{python}
 # sa# sa# sa# sa
 # sa# sa# sa# sa
@@ -354,51 +320,41 @@ key: 87f98074aa
 ```
 
 
-
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise
-
-xp: 50
-
-key: cba5fc79cf
-
-
-
+type: VideoExercise 
+xp: 50 
+key: cba5fc79cf   
 ```
 
 `@projector_key`
 4b4fe1e445f9b3a98c03509bc8e0e781
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
-type: TabExercise
-
-xp: 100
-
-key: 7a8a24817e
-
-
-
+type: TabExercise 
+xp: 100 
+key: 7a8a24817e   
 ```
 
 
 
 
 
+---
 
+## Insert exercise title here
 
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 06dcc345a8   
+```
 
-
-
-
-
-
+`@projector_key`
+36b0991493ac7b291ff4656bbf745317
